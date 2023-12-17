@@ -21,8 +21,3 @@ Connect with Me
 
 Let's Code Together!
 Feel free to explore my projects, contribute, and let's build something amazing together! If you have any questions or just want to connect, reach out on LinkedIn.
-
-<!---
-Dhananjay-Pareek/Dhananjay-Pareek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
