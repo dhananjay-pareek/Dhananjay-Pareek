@@ -2,9 +2,9 @@ Welcome to Dhananjay pareek's GitHub Profile 👋
 
 About Me
 
-👨‍💻 Web Developer | BCA Student | Founder of [CodeAPI.tech](https://codeapi.tech/)
+👨‍💻 Web Developer | BCA Student | Founder of [Codeapi.tech](https://codeapi.tech/)
 
-🌐 [TransformsYou.in](https://www.transformsyou.in/) | [CodeAPI.tech](https://codeapi.tech/) | and more...
+🌐 [TransformsYou.in](https://www.transformsyou.in/) | [Codeapi.tech](https://codeapi.tech/) | and more...
 
 Technologies I Love
 
@@ -14,7 +14,7 @@ Projects Highlights
 
 🚀 [TransformsYou.in](https://www.transformsyou.in/) - Explore personal transformations.
 
-💻 [CodeAPI.tech](https://codeapi.tech/) - Revolutionizing online tech solutions.
+💻 [Codeapi.tech](https://codeapi.tech/) - Revolutionizing online tech solutions.
 
 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/dhananjay-pareek-a9790b221)
