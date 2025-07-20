@@ -1,4 +1,4 @@
-Welcome to Dhananjay pareek's GitHub Profile 👋
+Welcome to Raghav's GitHub Profile 👋
 
 About Me
 
@@ -16,8 +16,6 @@ Projects Highlights
 
 💻 [Codeapi.tech](https://codeapi.tech/) - Revolutionizing online tech solutions.
 
-Connect with Me
-🔗 [LinkedIn](https://www.linkedin.com/in/dhananjay-pareek-a9790b221)
 
 Let's Code Together!
 Feel free to explore my projects, contribute, and let's build something amazing together! If you have any questions or just want to connect, reach out on LinkedIn.
