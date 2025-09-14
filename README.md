@@ -16,6 +16,10 @@ Projects Highlights
 
 💻 [Codeapi.tech](https://codeapi.tech/) - Revolutionizing online tech solutions.
 
+🚀 [OutStoryIndia.com](https://www.Outstoryindia.com/) - Explore Latest news.
+;
+💻 [IndiWiki.com](https://Indiwiki.com/) - India`s own wikipedia.
+
 
 Let's Code Together!
 Feel free to explore my projects, contribute, and let's build something amazing together! If you have any questions or just want to connect, reach out on LinkedIn.
