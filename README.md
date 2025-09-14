@@ -17,7 +17,7 @@ Projects Highlights
 💻 [Codeapi.tech](https://codeapi.tech/) - Revolutionizing online tech solutions.
 
 🚀 [OutStoryIndia.com](https://www.Outstoryindia.com/) - Explore Latest news.
-;
+
 💻 [IndiWiki.com](https://Indiwiki.com/) - India`s own wikipedia.
 
 
