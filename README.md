@@ -1,4 +1,4 @@
-Welcome to Raghav's GitHub Profile 👋
+Welcome to Dhananjay's GitHub Profile 👋
 
 About Me
 
@@ -8,7 +8,7 @@ About Me
 
 Technologies I Love
 
-HTML | CSS | JavaScript | WordPress
+HTML | CSS | JavaScript | WordPress | PHP | SQL 
 
 Projects Highlights
 
